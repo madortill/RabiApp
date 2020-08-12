@@ -1,0 +1,147 @@
+{
+    "StartGamePage": 
+    [
+        {
+            "name": "פקודות דת לחייל",
+            "topic-1": 
+            [
+                {
+                    
+                        "name": "תפילה",
+                        "sub-topic": 
+                        [
+                            "ZmanTfilot.png.זמני תפילה ",
+                            "TfilaMinyan.png.תפילה במניין וקדיש יתום",
+                            "LuzTfilot.png.לו\"ז התפילות בבית הכנסת ",
+                            "IsurAsia.png.איסור עשיית מלאכה קודם תפילה",
+                            "",
+                            ""
+                        ]
+                },
+                {
+                    "name": "כשרות",
+                    "sub-topic": 
+                    [
+                        "ZmanAruha.png.זמני ארוחות",
+                        "KashrutHederOhel.png.כשרות בחדר האוכל",
+                        "",
+                        "",
+                        "",
+                        ""
+
+                    ]
+                },
+                
+                
+                {
+                    "name": "שבת",
+                    "sub-topic": 
+                    [
+                        "NohalShabat.png.נוהל שבת",
+                        "HederOhel.png.חדר אוכל",
+                        "MahalahShabat.png.מהלך השבת",
+                        "Mivhanim.png.מבחנים",
+                        "",
+                        ""
+
+                    ]
+            },
+                {
+                    "name": "ימי ישיבה ושיעורים",
+                    "sub-topic": 
+                    [
+                        "ZakautYameyYeshiva.png.זכאות לימי ישיבה לחייל הדתי",
+                        "ShiurimKvuimB.png.שיעורים קבועים ",
+                        "",
+                        "",
+                        "",
+                        ""
+
+                    ]
+                },
+                {
+                    "name": "צומות",
+                    "sub-topic": 
+                    [
+                        "Chomot.png.הנחיות לצום",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+
+                    ]
+                },
+                {
+                    "name": "ציוד דת",
+                    "sub-topic": 
+                    [
+                        "Hachait.png.חצאית",
+                        "ChichitVkipa.png.ציצית וכיפה",
+                        "",
+                        "",
+                        "",
+                        ""
+
+                    ]
+                },
+                {
+                    "name": "גיור",
+                    "sub-topic": 
+                    [
+                        "Giur.png.תהליך הגיור",
+                        "",
+                        "",
+                        "",
+                        "",
+                        ""
+    
+                    ]
+                },
+                {
+                    "name": "השירות המשותף",
+                    "sub-topic": 
+                    [
+                        "PgiaBazulat.png.פגיעה בזולת",
+                        "Megurim.png.מגורים",
+                        "Levush.png.לבוש",
+                        "Madasim.png.מד\"סים",
+                        "Hadrahaa.png.הדרכה",
+                        "PeilutPnay.png.פעילות פנאי"
+                    ]
+                },
+                {
+                    "name": "זקן ותספורת",
+                    "sub-topic": 
+                    [
+                        "PtorZakan.png.פטור זקן",
+                        "MinhageyAvlut.png.מנהגי אבלות בזמנים מיוחדים",
+                        "",
+                        "",
+                        "",
+                        ""
+                   
+                    ]
+                },
+                {
+                    "name": "סגל רבנות",
+                    "sub-topic": 
+                    [
+                        "Rav.png.רב",
+                        "AhraiKashrut.png.אחראי כשרות ודת",
+                        "NagadKashrut.png.נגד",
+                        "RakazeyMor.png.רכזי מו\"ר",
+                        "",
+                        ""
+                    ]
+                }
+                
+            ]
+        }
+        
+           
+        
+
+        
+    ]
+}
